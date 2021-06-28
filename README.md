@@ -11,8 +11,6 @@ iBook - Plataforma de leitura online para livros digitais</a>
 
 ## Demo: https://api-ibook-thiagosilvalopes.herokuapp.com/
 
-## Dados da API no JsonSever: https://api-ibook-thiagosilvalopes.herokuapp.com/books
-
 ##### Para instalar o projeto localmente, com a pasta "node_modules":
 
 ```
