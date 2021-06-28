@@ -1,0 +1,11 @@
+----------1º Criamos o repositório no GitHub, e clonamos
+ele localmente, para a criação da API.
+
+----------2º Criamos o package.json do projeto:
+    npm init -y
+
+----------3º Instalamos o JsonServer com o npm, a partir do repos -> 
+https://github.com/typicode/json-server Com o comando:
+    npm i json-server
+
+----------4º  
