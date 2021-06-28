@@ -1,7 +1,7 @@
-<!---->
+<!--
 <div align="center">
 <img src="./ReadMeFiles/app.jpg" align="center">
-</div>
+</div>-->
 
 # API com JsonServer para o projeto -> iBook
 
