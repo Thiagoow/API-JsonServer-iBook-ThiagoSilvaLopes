@@ -9,7 +9,7 @@
 Sendo utilizada no projeto -> <a href="https://github.com/Thiagoow/NuxtJs-IbookProject-ScalingVue">
 iBook - Plataforma de leitura online para livros digitais</a>
 
-## Demo: https://api-ibook-thiagosilvalopes.herokuapp.com/
+## Demo: https://api-ibook-thiagosilvalopes.herokuapp.com/books
 
 ##### Para instalar o projeto localmente, com a pasta "node_modules":
 
