@@ -13,3 +13,8 @@ as requisições.
 
 ----------5º Executamos o JsonServer na nossa dB com o comando:
     json-server --watch NomeDaSuaDb.json
+
+----------6º Trocamos o "test" no objeto de "scrips" do package.json, pra:
+    "dev": "json-server --watch NomeDaSuaDb.json --port 3333"
+
+----------7º Fazemos o deploy pro Heroku tranquilo, e acessamos nossa API Rest 🤩😎😉
