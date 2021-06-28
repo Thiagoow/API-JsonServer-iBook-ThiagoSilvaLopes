@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch db.json --port 3333"
+    "dev": "json-server --watch db.json --port 3000"
   },
   "repository": {
     "type": "git",
