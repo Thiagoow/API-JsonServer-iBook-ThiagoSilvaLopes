@@ -4,9 +4,9 @@ ele localmente, para a criação da API.
 ----------2º Criamos o package.json do projeto:
     npm init -y
 
-----------3º Instalamos o JsonServer como dev dependence com o npm, a partir do repos
+----------3º Instalamos o JsonServer globalmente com o npm, a partir do repos
 https://github.com/typicode/json-server Com o comando:
-    npm i json-server -D
+    npm i -g json-server
 
 ----------4º  Criamos/Adicionamos a dB em .json com os dados que iremos fazer
 as requisições.
