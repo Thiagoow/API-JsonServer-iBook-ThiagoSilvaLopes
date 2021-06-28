@@ -5,10 +5,9 @@
 
 # API com JsonServer para o projeto -> iBook
 
-<small>© Thiago Silva Lopes </small>
-
 <p>Essa API Rest foi feita por: <strong>Thiago Silva Lopes</strong>, em 06/2021.</br>
-Sendo utilizada no projeto -> iBook <a href="https://github.com/Thiagoow/NuxtJs-IbookProject-ScalingVue"></a>
+Sendo utilizada no projeto -> <a href="https://github.com/Thiagoow/NuxtJs-IbookProject-ScalingVue">
+iBook - Plataforma de leitura online para livros digitais</a>
 
 ## Demo: https://api-ibook-thiagosilvalopes.herokuapp.com/
 
@@ -25,3 +24,5 @@ npm install
 ```
 npm run dev
 ```
+
+<small>© Thiago Silva Lopes </small>
